@@ -1,0 +1,21 @@
+{
+  "name": "excel-to-sheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jsontoxml": "^1.0.3",
+    "jsontoxml": "^1.0.1",
+    "read-excel-file": "^5.5.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "google-auth-library": "^8.7.0",
+    "googleapis": "^110.0.0"
+  }
+}
