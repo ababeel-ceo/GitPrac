@@ -1,5 +1,5 @@
 //  another Modification by Abd
-// modifield by Abd -> bru
+// modifield by sam->abd
 // const fs=require("fs"
 );
 // const xlsx=require("xlsx");
